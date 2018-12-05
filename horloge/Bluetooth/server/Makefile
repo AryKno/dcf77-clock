@@ -14,3 +14,4 @@ $(LIBNAME).a: $(LIBNAME).o
 
 clean:
 	rm -f core *.o $(LIBNAME).a 
+
