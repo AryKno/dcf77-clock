@@ -1,0 +1,913 @@
+<?xml version="1.0"  encoding="UTF-8" ?>
+<!-- Generated on Sun, 18 Mar 2018 14:39:43 +0100 -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title><![CDATA[Les dernières actualités de Futura-Sciences]]></title>
+<link><![CDATA[http://www.futura-sciences.com]]></link>
+<atom:link href="https://www.futura-sciences.com/rss/actualites.xml" rel="self" type="application/rss+xml" />
+<description><![CDATA[L'actualité des sciences et technologies.]]></description>
+<language><![CDATA[fr-FR]]></language>
+<copyright><![CDATA[Copyright Futura-Sciences. Tous droits réservés.]]></copyright>
+<managingEditor><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></managingEditor>
+<webMaster><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></webMaster>
+<category><![CDATA[médecine]]></category>
+<category><![CDATA[cerveau]]></category>
+<category><![CDATA[bandeau Muse]]></category>
+<category><![CDATA[melomind]]></category>
+<category><![CDATA[Dreem]]></category>
+<category><![CDATA[iWinks]]></category>
+<category><![CDATA[thync]]></category>
+<category><![CDATA[Halo Sport]]></category>
+<category><![CDATA[Michel Le Van Quyel]]></category>
+<category><![CDATA[neurofeedback]]></category>
+<category><![CDATA[amélioration du cerveau]]></category>
+<category><![CDATA[médicament]]></category>
+<category><![CDATA[essai clinique]]></category>
+<category><![CDATA[essai préclinique]]></category>
+<category><![CDATA[animal de laboratoire]]></category>
+<category><![CDATA[rat de laboratoire]]></category>
+<category><![CDATA[test préclinique]]></category>
+<category><![CDATA[arythmie]]></category>
+<category><![CDATA[ventricule]]></category>
+<category><![CDATA[toxicité]]></category>
+<category><![CDATA[physique]]></category>
+<category><![CDATA[Homme]]></category>
+<category><![CDATA[Napoléon]]></category>
+<category><![CDATA[empoisonnement]]></category>
+<category><![CDATA[arsenic]]></category>
+<category><![CDATA[activation neutronique]]></category>
+<category><![CDATA[Forshufvud]]></category>
+<category><![CDATA[réacteur nucléaire Pavie]]></category>
+<category><![CDATA[biologie]]></category>
+<category><![CDATA[E2014]]></category>
+<category><![CDATA[en chiffres]]></category>
+<category><![CDATA[neurone]]></category>
+<category><![CDATA[nombre de neurones]]></category>
+<category><![CDATA[encéphale]]></category>
+<category><![CDATA[synapse]]></category>
+<category><![CDATA[poids du cerveau]]></category>
+<category><![CDATA[influx nerveux]]></category>
+<category><![CDATA[vitesse de l’influx nerveux]]></category>
+<category><![CDATA[cortex]]></category>
+<category><![CDATA[tronc cérébral]]></category>
+<category><![CDATA[cervelet]]></category>
+<category><![CDATA[liquide cérébrospinal]]></category>
+<category><![CDATA[lobe cérébral]]></category>
+<category><![CDATA[robotique]]></category>
+<category><![CDATA[robot]]></category>
+<category><![CDATA[robot quadrupède]]></category>
+<category><![CDATA[robot danseur ETH]]></category>
+<category><![CDATA[ANYmal]]></category>
+<category><![CDATA[Daft Punk]]></category>
+<category><![CDATA[du Beyonce]]></category>
+<category><![CDATA[U2]]></category>
+<category><![CDATA[Astronomie]]></category>
+<category><![CDATA[Galaxie]]></category>
+<category><![CDATA[amas de galaxies]]></category>
+<category><![CDATA[formation galaxies]]></category>
+<category><![CDATA[Univers]]></category>
+<category><![CDATA[astrophysique]]></category>
+<category><![CDATA[matière noire]]></category>
+<category><![CDATA[cosmologie]]></category>
+<category><![CDATA[galaxie relique]]></category>
+<category><![CDATA[galaxie compacte]]></category>
+<category><![CDATA[trou noir supermassif]]></category>
+<category><![CDATA[Hubble]]></category>
+<category><![CDATA[satellite]]></category>
+<category><![CDATA[internet des objets]]></category>
+<category><![CDATA[Utilisation de l'espace]]></category>
+<category><![CDATA[nanosatellite]]></category>
+<category><![CDATA[eutelsat]]></category>
+<category><![CDATA[Nutrition]]></category>
+<category><![CDATA[boisson]]></category>
+<category><![CDATA[Eau]]></category>
+<category><![CDATA[eau en bouteille]]></category>
+<category><![CDATA[contamination]]></category>
+<category><![CDATA[plastique]]></category>
+<category><![CDATA[nylon]]></category>
+<category><![CDATA[polypropylène]]></category>
+<category><![CDATA[embouteillage]]></category>
+<category><![CDATA[pet]]></category>
+<category><![CDATA[lecture]]></category>
+<category><![CDATA[lire]]></category>
+<category><![CDATA[activité du cerveau]]></category>
+<category><![CDATA[région du cerveau]]></category>
+<category><![CDATA[coordination des régions du cerveau]]></category>
+<category><![CDATA[epilepsie]]></category>
+<category><![CDATA[activité gamma]]></category>
+<category><![CDATA[The Journal of Neuroscience]]></category>
+<category><![CDATA[aire cérébrale]]></category>
+<category><![CDATA[activité neuronale]]></category>
+<category><![CDATA[activité cognitive]]></category>
+<category><![CDATA[cognition]]></category>
+<category><![CDATA[trou noir]]></category>
+<category><![CDATA[Hawking]]></category>
+<category><![CDATA[Luminet]]></category>
+<category><![CDATA[mort]]></category>
+<category><![CDATA[décès]]></category>
+<category><![CDATA[blog]]></category>
+<category><![CDATA[futura]]></category>
+<category><![CDATA[semaine du cerveau]]></category>
+<category><![CDATA[Méningite]]></category>
+<category><![CDATA[comprendre les rêves]]></category>
+<category><![CDATA[pilotage par la pensée]]></category>
+<category><![CDATA[coup de foudre]]></category>
+<category><![CDATA[physiologie du coup de foudre]]></category>
+<category><![CDATA[module orbital]]></category>
+<category><![CDATA[Tiangong]]></category>
+<category><![CDATA[station spatiale chinoise]]></category>
+<category><![CDATA[rentrée atmosphérique destructive]]></category>
+<category><![CDATA[surveillance de l'espace]]></category>
+<category><![CDATA[Tiangong-1]]></category>
+<category><![CDATA[chute de Tiangong-1]]></category>
+<category><![CDATA[désorbitation de Tiangong-1]]></category>
+<category><![CDATA[désorbitation de l'ISS]]></category>
+<category><![CDATA[voiture électrique]]></category>
+<category><![CDATA[voiture]]></category>
+<category><![CDATA[the green expedition]]></category>
+<category><![CDATA[éco-raid]]></category>
+<category><![CDATA[raid voiture électrique]]></category>
+<category><![CDATA[Atypik Travel Organisation]]></category>
+<category><![CDATA[Sojasun]]></category>
+<category><![CDATA[Nicolas Hulot]]></category>
+<category><![CDATA[Tesla Model S 85]]></category>
+<category><![CDATA[Eric Loizeau]]></category>
+<category><![CDATA[Renault Zoé ZE40]]></category>
+<category><![CDATA[ZERO DS]]></category>
+<category><![CDATA[vélo électrique Matra i-Step Tour XT S]]></category>
+<category><![CDATA[Bastien Hieyte]]></category>
+<category><![CDATA[Ruta 40]]></category>
+<category><![CDATA[cordillères des Andes]]></category>
+<category><![CDATA[Argentine]]></category>
+<category><![CDATA[écoconduite]]></category>
+<category><![CDATA[Big-Bang]]></category>
+<category><![CDATA[singularité]]></category>
+<category><![CDATA[rayonnement Hawking]]></category>
+<category><![CDATA[paradoxe de l'information]]></category>
+<category><![CDATA[inflation]]></category>
+<category><![CDATA[entropie]]></category>
+<category><![CDATA[supergravité]]></category>
+<category><![CDATA[planck]]></category>
+<category><![CDATA[temps imaginaire]]></category>
+<category><![CDATA[intégrale de Feynman]]></category>
+<category><![CDATA[trou de ver]]></category>
+<category><![CDATA[constante cosmologique]]></category>
+<category><![CDATA[principe anthropique]]></category>
+<category><![CDATA[einstein]]></category>
+<category><![CDATA[relativité générale]]></category>
+<category><![CDATA[rayonnement fossile]]></category>
+<category><![CDATA[théorie de Tout]]></category>
+<category><![CDATA[théorie des cordes]]></category>
+<category><![CDATA[Wheeler]]></category>
+<category><![CDATA[Bekenstein]]></category>
+<category><![CDATA[Penrose]]></category>
+<category><![CDATA[solar probe plus]]></category>
+<category><![CDATA[Parker Solar Probe]]></category>
+<category><![CDATA[atmosphère solaire]]></category>
+<category><![CDATA[couronne solaire]]></category>
+<category><![CDATA[étude du Soleil]]></category>
+<category><![CDATA[sonde spatiale vers le Soleil]]></category>
+<category><![CDATA[sonde la plus rapide]]></category>
+<category><![CDATA[Eugene Parker]]></category>
+<category><![CDATA[éruption solaire]]></category>
+<category><![CDATA[prédiction des éruptions solaires]]></category>
+<category><![CDATA[météorologie solaire]]></category>
+<category><![CDATA[changement climatique]]></category>
+<category><![CDATA[GIEC]]></category>
+<category><![CDATA[Observation de la Terre]]></category>
+<category><![CDATA[Réchauffement climatique]]></category>
+<category><![CDATA[Gulf Stream]]></category>
+<category><![CDATA[photographe]]></category>
+<category><![CDATA[Terre]]></category>
+<category><![CDATA[Volcan]]></category>
+<category><![CDATA[Kawah Ijen]]></category>
+<category><![CDATA[Olivier Grunewald]]></category>
+<category><![CDATA[Bernadette Gilbertas]]></category>
+<category><![CDATA[flammes bleues d'un volcan]]></category>
+<category><![CDATA[soufre]]></category>
+<category><![CDATA[Volcanologie]]></category>
+<category><![CDATA[À la Une]]></category>
+<category><![CDATA[exoplanète]]></category>
+<category><![CDATA[atmosphère]]></category>
+<category><![CDATA[superTerre]]></category>
+<category><![CDATA[atmosphère d'une superterre]]></category>
+<category><![CDATA[mini-Neptune]]></category>
+<category><![CDATA[brumes]]></category>
+<category><![CDATA[brume]]></category>
+<category><![CDATA[atmosphère d'une exoplanète]]></category>
+<category><![CDATA[pluton]]></category>
+<category><![CDATA[titan]]></category>
+<category><![CDATA[composition atmosphérique]]></category>
+<category><![CDATA[composition chimique]]></category>
+<category><![CDATA[métallicité]]></category>
+<category><![CDATA[photochimique]]></category>
+<category><![CDATA[brumes photochimiques]]></category>
+<category><![CDATA[conscience]]></category>
+<category><![CDATA[consciousness]]></category>
+<category><![CDATA[awareness]]></category>
+<category><![CDATA[réseau]]></category>
+<category><![CDATA[cortex cingulaire]]></category>
+<category><![CDATA[Sécurité]]></category>
+<category><![CDATA[processeur]]></category>
+<category><![CDATA[faille]]></category>
+<category><![CDATA[amd]]></category>
+<category><![CDATA[CTS Labs]]></category>
+<category><![CDATA[processeur AMD]]></category>
+<category><![CDATA[faille sécurité processeur AMD]]></category>
+<category><![CDATA[EPYC]]></category>
+<category><![CDATA[Ryzen]]></category>
+<category><![CDATA[Ryzen Pro]]></category>
+<category><![CDATA[Ryzen Mobile]]></category>
+<category><![CDATA[faille spectre]]></category>
+<category><![CDATA[faille meltdown]]></category>
+<category><![CDATA[intel]]></category>
+<category><![CDATA[ASMedia]]></category>
+<category><![CDATA[enSilo]]></category>
+<category><![CDATA[maladie]]></category>
+<category><![CDATA[Stephen Hawking]]></category>
+<category><![CDATA[maladie de charcot]]></category>
+<category><![CDATA[maladie neurodégénérative]]></category>
+<category><![CDATA[Sclérose Latérale Amyotrophique]]></category>
+<category><![CDATA[handicap]]></category>
+<category><![CDATA[motoneurone]]></category>
+<category><![CDATA[moelle épinière]]></category>
+<category><![CDATA[muscle]]></category>
+<category><![CDATA[maladie de Lou Gehrig]]></category>
+<category><![CDATA[Jérôme Golmard]]></category>
+<category><![CDATA[rayonnement de Hawking]]></category>
+<category><![CDATA[modèle de Hartle-Hawking]]></category>
+<category><![CDATA[big bang]]></category>
+<category><![CDATA[technologie]]></category>
+<category><![CDATA[taxi volant]]></category>
+<category><![CDATA[Larry Page]]></category>
+<category><![CDATA[kitty hawk larry page]]></category>
+<category><![CDATA[aéronef à décollage et atterrissage verticaux]]></category>
+<category><![CDATA[Voiture volante]]></category>
+<category><![CDATA[Cora]]></category>
+<category><![CDATA[Cora larry page]]></category>
+<category><![CDATA[Zephyr Airworks]]></category>
+<category><![CDATA[Iter]]></category>
+<category><![CDATA[fusion nucléaire]]></category>
+<category><![CDATA[Japon]]></category>
+<category><![CDATA[irradiation]]></category>
+<category><![CDATA[matériau]]></category>
+<category><![CDATA[tokamak]]></category>
+<category><![CDATA[réacteur Demo]]></category>
+<category><![CDATA[aimant supraconducteur]]></category>
+<category><![CDATA[énergie renouvelable]]></category>
+<category><![CDATA[panneau solaire]]></category>
+<category><![CDATA[panneau photovoltaïque]]></category>
+<category><![CDATA[nanogénérateur triboélectrique]]></category>
+<category><![CDATA[TENG]]></category>
+<category><![CDATA[université de Soochow]]></category>
+<category><![CDATA[pluie]]></category>
+<category><![CDATA[gouttes de pluie]]></category>
+<category><![CDATA[friction]]></category>
+<category><![CDATA[exoplanètes]]></category>
+<category><![CDATA[étoile]]></category>
+<category><![CDATA[système planétaire]]></category>
+<category><![CDATA[naine rouge]]></category>
+<category><![CDATA[disque de débris]]></category>
+<category><![CDATA[disque de gaz et de poussière]]></category>
+<category><![CDATA[disque protoplanétaire]]></category>
+<category><![CDATA[disque proto-planétaire]]></category>
+<category><![CDATA[étoile HR 4796A]]></category>
+<category><![CDATA[Une brève histoire du temps]]></category>
+<category><![CDATA[mort de Hawking]]></category>
+<category><![CDATA[décès de Hawking]]></category>
+<category><![CDATA[chaire lucasienne]]></category>
+<category><![CDATA[Astronautique]]></category>
+<category><![CDATA[SpaceX]]></category>
+<category><![CDATA[Elon Musk]]></category>
+<category><![CDATA[mars]]></category>
+<category><![CDATA[Falcon-9]]></category>
+<category><![CDATA[Falcon Heavy]]></category>
+<category><![CDATA[dragon]]></category>
+<category><![CDATA[planète rouge]]></category>
+<category><![CDATA[exploration]]></category>
+<category><![CDATA[Nasa]]></category>
+<category><![CDATA[COTS]]></category>
+<category><![CDATA[CCDev]]></category>
+<category><![CDATA[véhicule spatial habité]]></category>
+<category><![CDATA[génétique]]></category>
+<category><![CDATA[empathie]]></category>
+<category><![CDATA[gêne]]></category>
+<category><![CDATA[autisme]]></category>
+<category><![CDATA[interactions sociales]]></category>
+<category><![CDATA[société]]></category>
+<category><![CDATA[relations sociales]]></category>
+<category><![CDATA[femme]]></category>
+<category><![CDATA[trouble psychique]]></category>
+<category><![CDATA[expérience]]></category>
+<category><![CDATA[reconnaissance des visages]]></category>
+<category><![CDATA[scanner]]></category>
+<category><![CDATA[âge adulte]]></category>
+<category><![CDATA[gyrus fusiforme]]></category>
+<category><![CDATA[vieillissement]]></category>
+<image>
+<url><![CDATA[https://fr.cdn.v5.futura-sciences.com/sources/images/logos/magazines/fond-clair/logo-fs-blanc-little.jpg]]></url>
+<title><![CDATA[Les dernières actualités de Futura-Sciences]]></title>
+<link><![CDATA[http://www.futura-sciences.com]]></link>
+</image>
+<item>
+<title><![CDATA[Top 7 des technologies pour améliorer notre cerveau]]></title>
+<description><![CDATA[Chercheur en neurosciences à l'Inserm, Michel Le Van Quyen s'intéresse à la modélisation du fonctionnement du cerveau et se passionne pour le « neurofeedback », qui permet de prendre conscience de son propre état cérébral. Pour Futura, il a sélectionné une liste de sept appareils innovants...]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sante/actualites/medecine-top-7-technologies-ameliorer-notre-cerveau-66314/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Sun, 18 Mar 2018 14:30:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sante/actualites/medecine-top-7-technologies-ameliorer-notre-cerveau-66314/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/d/a/1/da15366857_95469_04-507.jpg" length="107684" type="image/jpg" />
+<category><![CDATA[médecine]]></category>
+<category><![CDATA[cerveau]]></category>
+<category><![CDATA[bandeau Muse]]></category>
+<category><![CDATA[melomind]]></category>
+<category><![CDATA[Dreem]]></category>
+<category><![CDATA[iWinks]]></category>
+<category><![CDATA[thync]]></category>
+<category><![CDATA[Halo Sport]]></category>
+<category><![CDATA[Michel Le Van Quyel]]></category>
+<category><![CDATA[neurofeedback]]></category>
+<category><![CDATA[amélioration du cerveau]]></category>
+</item>
+<item>
+<title><![CDATA[Tests sur les animaux : bientôt un rat de laboratoire virtuel ?]]></title>
+<description><![CDATA[Les animaux de laboratoire sont souvent utilisés lors des essais précliniques pour tester l’efficacité et la sécurité des médicaments. Pour se passer de ces animaux, des chercheurs proposent des solutions, comme une simulation informatique qui peut prédire qu'une molécule est toxique pour le cœur.]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sante/actualites/medecine-tests-animaux-bientot-rat-laboratoire-virtuel-70491/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Sun, 18 Mar 2018 14:00:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sante/actualites/medecine-tests-animaux-bientot-rat-laboratoire-virtuel-70491/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/2/4/d/24dc105fa6_121690_rat-laboratoire.jpg" length="70274" type="image/jpg" />
+<category><![CDATA[médecine]]></category>
+<category><![CDATA[médicament]]></category>
+<category><![CDATA[essai clinique]]></category>
+<category><![CDATA[essai préclinique]]></category>
+<category><![CDATA[animal de laboratoire]]></category>
+<category><![CDATA[rat de laboratoire]]></category>
+<category><![CDATA[test préclinique]]></category>
+<category><![CDATA[arythmie]]></category>
+<category><![CDATA[ventricule]]></category>
+<category><![CDATA[toxicité]]></category>
+</item>
+<item>
+<title><![CDATA[Napoléon empoisonné ? Probablement pas...]]></title>
+<description><![CDATA[La diplomatie et les médias bruissent de l'affaire de l'empoisonnement d'un ex-espion russe — et de sa fille. L'occasion de revenir sur une autre, bien plus ancienne et... plus douteuse. Depuis 1955, la thèse de l’empoisonnement de Napoléon à l’arsenic ne cessait en effet de gagner en...]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sciences/actualites/physique-napoleon-empoisonne-probablement-pas-14648/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Sat, 17 Mar 2018 15:30:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sciences/actualites/physique-napoleon-empoisonne-probablement-pas-14648/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/5/8/6/586b6414c2_121808_poison-napoleon-arsenic.jpg" length="108293" type="image/jpg" />
+<category><![CDATA[physique]]></category>
+<category><![CDATA[Homme]]></category>
+<category><![CDATA[Napoléon]]></category>
+<category><![CDATA[empoisonnement]]></category>
+<category><![CDATA[arsenic]]></category>
+<category><![CDATA[activation neutronique]]></category>
+<category><![CDATA[Forshufvud]]></category>
+<category><![CDATA[réacteur nucléaire Pavie]]></category>
+</item>
+<item>
+<title><![CDATA[Votre cerveau en 15 chiffres clés]]></title>
+<description><![CDATA[Êtes-vous incollable sur le cerveau ? Indispensable à la vie humaine, il fait partie des organes alimentés en priorité en oxygène. Le cerveau nous permet de percevoir notre environnement, de réfléchir, de commander des mouvements, de stocker des informations ou d’éprouver des émotions. Alors que...]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sante/actualites/biologie-votre-cerveau-15-chiffres-cles-51904/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Sat, 17 Mar 2018 14:30:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sante/actualites/biologie-votre-cerveau-15-chiffres-cles-51904/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/3/f/2/3f221b86fe_121830_cerveau-organe.jpg" length="112765" type="image/jpg" />
+<category><![CDATA[biologie]]></category>
+<category><![CDATA[E2014]]></category>
+<category><![CDATA[cerveau]]></category>
+<category><![CDATA[en chiffres]]></category>
+<category><![CDATA[neurone]]></category>
+<category><![CDATA[nombre de neurones]]></category>
+<category><![CDATA[encéphale]]></category>
+<category><![CDATA[synapse]]></category>
+<category><![CDATA[poids du cerveau]]></category>
+<category><![CDATA[influx nerveux]]></category>
+<category><![CDATA[vitesse de l’influx nerveux]]></category>
+<category><![CDATA[cortex]]></category>
+<category><![CDATA[tronc cérébral]]></category>
+<category><![CDATA[cervelet]]></category>
+<category><![CDATA[liquide cérébrospinal]]></category>
+<category><![CDATA[lobe cérébral]]></category>
+</item>
+<item>
+<title><![CDATA[ANYmal, le robot qui a le rythme dans la peau]]></title>
+<description><![CDATA[Conçu par l'École polytechnique fédérale de Zurich, ANYmal est un robot quadrupède qui danse au rythme de la musique en analysant en temps réel ce qu'il entend. Une expérience amusante et qui recèle des innovations intéressantes pour la robotique en général.]]></description>
+<link><![CDATA[https://www.futura-sciences.com/tech/actualites/robotique-anymal-robot-rythme-peau-70489/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Sat, 17 Mar 2018 14:00:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/tech/actualites/robotique-anymal-robot-rythme-peau-70489/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/c/1/3/c139c9acff_121674_anymal.jpg" length="83603" type="image/jpg" />
+<category><![CDATA[robotique]]></category>
+<category><![CDATA[robot]]></category>
+<category><![CDATA[robot quadrupède]]></category>
+<category><![CDATA[robot danseur ETH]]></category>
+<category><![CDATA[ANYmal]]></category>
+<category><![CDATA[Daft Punk]]></category>
+<category><![CDATA[du Beyonce]]></category>
+<category><![CDATA[U2]]></category>
+</item>
+<item>
+<title><![CDATA[Hubble : une galaxie relique découverte près de chez nous]]></title>
+<description><![CDATA[C’est la première fois que des astronomes découvrent une « galaxie fossile » aussi près de nous, à seulement à 240 millions d’années-lumière de la Voie lactée. NGC 1277 — c’est son nom — n’a pas produit d’étoiles depuis 10 milliards d’années et elle est train de mourir à petit feu. Comment les...]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sciences/actualites/astronomie-hubble-galaxie-relique-decouverte-pres-chez-nous-70553/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Fri, 16 Mar 2018 17:30:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sciences/actualites/astronomie-hubble-galaxie-relique-decouverte-pres-chez-nous-70553/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/8/1/d/81d113245d_121870_galaxie-relique-ngc1277-amas-persee.jpg" length="128668" type="image/jpg" />
+<category><![CDATA[Astronomie]]></category>
+<category><![CDATA[Galaxie]]></category>
+<category><![CDATA[amas de galaxies]]></category>
+<category><![CDATA[formation galaxies]]></category>
+<category><![CDATA[Univers]]></category>
+<category><![CDATA[astrophysique]]></category>
+<category><![CDATA[matière noire]]></category>
+<category><![CDATA[cosmologie]]></category>
+<category><![CDATA[galaxie relique]]></category>
+<category><![CDATA[galaxie compacte]]></category>
+<category><![CDATA[trou noir supermassif]]></category>
+<category><![CDATA[Hubble]]></category>
+</item>
+<item>
+<title><![CDATA[ELO, un minisatellite pour l'Internet des objets partout sur Terre]]></title>
+<description><![CDATA[L’opérateur européen de satellites de télécommunications&nbsp;Eutelsat a annoncé&nbsp;la commande, auprès du fabricant Tyvak International SRL, d’ELO (pour&nbsp;Eutelsat LEO for Objects), son premier nanosatellite dédié à l’Internet des objets (IoT).]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sciences/actualites/satellite-elo-minisatellite-internet-objets-partout-terre-70538/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Fri, 16 Mar 2018 15:33:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sciences/actualites/satellite-elo-minisatellite-internet-objets-partout-terre-70538/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/2/4/b/24b40c3b7c_121838_cubesats-iss-mai17-nasa.jpg" length="56161" type="image/jpg" />
+<category><![CDATA[satellite]]></category>
+<category><![CDATA[internet des objets]]></category>
+<category><![CDATA[Utilisation de l'espace]]></category>
+<category><![CDATA[nanosatellite]]></category>
+<category><![CDATA[eutelsat]]></category>
+</item>
+<item>
+<title><![CDATA[De l’eau en bouteille contaminée par des particules de plastique]]></title>
+<description><![CDATA[Beaucoup d’entre nous préfèrent l’eau en bouteille à celle du robinet. Une question de pureté. Pourtant, une étude révèle aujourd’hui que l’eau en bouteille de nombreuses grandes marques est contaminée par de minuscules particules de plastique. Avec des conséquences sur notre santé encore inconnues.]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sante/actualites/nutrition-eau-bouteille-contaminee-particules-plastique-70530/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Fri, 16 Mar 2018 13:29:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sante/actualites/nutrition-eau-bouteille-contaminee-particules-plastique-70530/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/8/2/8/8288999e96_121798_bouteille-eau-plastique.jpg" length="137498" type="image/jpg" />
+<category><![CDATA[Nutrition]]></category>
+<category><![CDATA[boisson]]></category>
+<category><![CDATA[Eau]]></category>
+<category><![CDATA[eau en bouteille]]></category>
+<category><![CDATA[contamination]]></category>
+<category><![CDATA[plastique]]></category>
+<category><![CDATA[nylon]]></category>
+<category><![CDATA[polypropylène]]></category>
+<category><![CDATA[embouteillage]]></category>
+<category><![CDATA[pet]]></category>
+</item>
+<item>
+<title><![CDATA[Cerveau : comment les enfants apprennent-ils à lire ?]]></title>
+<description><![CDATA[À l'occasion de la semaine du cerveau, apprenons-en un peu plus sur ce qui se passe dans la tête des enfants en plein apprentissage de la lecture... Des chercheurs ont étudié comment une zone du cerveau servant à la reconnaissance des mots se développe à ce moment crucial de leur scolarité.]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sante/actualites/medecine-cerveau-enfants-apprennent-ils-lire-38718/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Fri, 16 Mar 2018 11:24:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sante/actualites/medecine-cerveau-enfants-apprennent-ils-lire-38718/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/7/4/0/7401da4478_121828_enfant-lecture.jpg" length="111713" type="image/jpg" />
+<category><![CDATA[médecine]]></category>
+<category><![CDATA[lecture]]></category>
+<category><![CDATA[lire]]></category>
+<category><![CDATA[cerveau]]></category>
+<category><![CDATA[activité du cerveau]]></category>
+<category><![CDATA[neurone]]></category>
+<category><![CDATA[région du cerveau]]></category>
+<category><![CDATA[coordination des régions du cerveau]]></category>
+<category><![CDATA[epilepsie]]></category>
+<category><![CDATA[activité gamma]]></category>
+<category><![CDATA[The Journal of Neuroscience]]></category>
+<category><![CDATA[aire cérébrale]]></category>
+<category><![CDATA[activité neuronale]]></category>
+<category><![CDATA[activité cognitive]]></category>
+<category><![CDATA[cognition]]></category>
+</item>
+<item>
+<title><![CDATA[Décès de Stephen Hawking : Jean-Pierre Luminet livre ses souvenirs personnels]]></title>
+<description><![CDATA[Stephen Hawking vient de nous quitter à l'âge de 76 ans. L'astrophysicien et cosmologiste Jean-Pierre Luminet, qui l'a bien connu, nous livre ses souvenirs de ce géant de la science dont le courage devant une terrible maladie faisait l'admiration de tous.]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sciences/actualites/trou-noir-deces-stephen-hawking-jean-pierre-luminet-livre-souvenirs-personnels-70528/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Fri, 16 Mar 2018 09:45:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sciences/actualites/trou-noir-deces-stephen-hawking-jean-pierre-luminet-livre-souvenirs-personnels-70528/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/a/e/9/ae910a231c_50005795_lhchawking-03.jpg" length="153646" type="image/jpg" />
+<category><![CDATA[trou noir]]></category>
+<category><![CDATA[Hawking]]></category>
+<category><![CDATA[Luminet]]></category>
+<category><![CDATA[cosmologie]]></category>
+<category><![CDATA[mort]]></category>
+<category><![CDATA[décès]]></category>
+<category><![CDATA[blog]]></category>
+<category><![CDATA[futura]]></category>
+</item>
+<item>
+<title><![CDATA[Semaine du cerveau : 15 nouvelles insolites sur votre cerveau]]></title>
+<description><![CDATA[Organisée dans toute l'Europe, la Semaine du cerveau célèbre notre organe le plus complexe et le plus mystérieux. C'est l'occasion de rencontres avec les chercheurs, mais aussi de retrouver nos actualités les plus étonnantes : où se trouve la conscience ? quelle tempête s'élève sous le crâne...]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sante/actualites/cerveau-semaine-cerveau-15-nouvelles-insolites-votre-cerveau-62064/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Fri, 16 Mar 2018 09:18:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sante/actualites/cerveau-semaine-cerveau-15-nouvelles-insolites-votre-cerveau-62064/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/5/8/d/58d5e97be4_87859_cerveau-connexions.jpg" length="172656" type="image/jpg" />
+<category><![CDATA[cerveau]]></category>
+<category><![CDATA[semaine du cerveau]]></category>
+<category><![CDATA[Méningite]]></category>
+<category><![CDATA[comprendre les rêves]]></category>
+<category><![CDATA[pilotage par la pensée]]></category>
+<category><![CDATA[coup de foudre]]></category>
+<category><![CDATA[physiologie du coup de foudre]]></category>
+</item>
+<item>
+<title><![CDATA[Tiangong-1 : la station spatiale chinoise va-t-elle retomber près de chez nous ?]]></title>
+<description><![CDATA[Mais où va donc tomber Tiangong-1, la station spatiale chinoise ? Et quand cela va-t-il se produire ? Après en avoir perdu le contrôle, la Chine assure que sa rentrée atmosphérique se fera sans risques. Est-ce vraiment certain ? Parmi les zones où les risques sont les plus élevés que des débris...]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sciences/actualites/utilisation-espace-tiangong-1-station-spatiale-chinoise-va-t-elle-retomber-pres-chez-nous-64469/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Fri, 16 Mar 2018 08:08:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sciences/actualites/utilisation-espace-tiangong-1-station-spatiale-chinoise-va-t-elle-retomber-pres-chez-nous-64469/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/c/c/d/ccd2c7b05a_96322_atv-rentreeatmospherique-esa.jpg" length="123546" type="image/jpg" />
+<category><![CDATA[Utilisation de l'espace]]></category>
+<category><![CDATA[module orbital]]></category>
+<category><![CDATA[Tiangong]]></category>
+<category><![CDATA[station spatiale chinoise]]></category>
+<category><![CDATA[rentrée atmosphérique destructive]]></category>
+<category><![CDATA[surveillance de l'espace]]></category>
+<category><![CDATA[Tiangong-1]]></category>
+<category><![CDATA[chute de Tiangong-1]]></category>
+<category><![CDATA[désorbitation de Tiangong-1]]></category>
+<category><![CDATA[désorbitation de l'ISS]]></category>
+</item>
+<item>
+<title><![CDATA[The Green Expedition : un Dakar vert pour voitures, motos et vélos]]></title>
+<description><![CDATA[The Green Expedition est un « éco-raid » de 5.000 km qui se courra en Argentine le mois prochain durant 20 jours. Il est ouvert aux voitures, motos et même vélos électriques. Un défi technique dans lequel l’écoconduite jouera un rôle déterminant.]]></description>
+<link><![CDATA[https://www.futura-sciences.com/tech/actualites/voiture-electrique-green-expedition-dakar-vert-voitures-motos-velos-70533/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Thu, 15 Mar 2018 17:12:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/tech/actualites/voiture-electrique-green-expedition-dakar-vert-voitures-motos-velos-70533/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/9/1/5/915788ea50_121812_green-expedition.jpg" length="145350" type="image/jpg" />
+<category><![CDATA[voiture électrique]]></category>
+<category><![CDATA[voiture]]></category>
+<category><![CDATA[the green expedition]]></category>
+<category><![CDATA[éco-raid]]></category>
+<category><![CDATA[raid voiture électrique]]></category>
+<category><![CDATA[Atypik Travel Organisation]]></category>
+<category><![CDATA[Sojasun]]></category>
+<category><![CDATA[Nicolas Hulot]]></category>
+<category><![CDATA[Tesla Model S 85]]></category>
+<category><![CDATA[Eric Loizeau]]></category>
+<category><![CDATA[Renault Zoé ZE40]]></category>
+<category><![CDATA[ZERO DS]]></category>
+<category><![CDATA[vélo électrique Matra i-Step Tour XT S]]></category>
+<category><![CDATA[Bastien Hieyte]]></category>
+<category><![CDATA[Ruta 40]]></category>
+<category><![CDATA[cordillères des Andes]]></category>
+<category><![CDATA[Argentine]]></category>
+<category><![CDATA[écoconduite]]></category>
+</item>
+<item>
+<title><![CDATA[La mort de Stephen Hawking nous laisse seuls devant l'énigme du Big Bang]]></title>
+<description><![CDATA[Il aura défié la mort et la maladie de Charcot pendant cinquante ans, réussissant l'impossible. Révéré par la communauté scientifique, icône de la pop culture geek, Stephen Hawking est décédé le 14 mars 2018. L'astrophysicien était à la recherche d'une solution à l'énigme du Big Bang. Voici...]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sciences/actualites/big-bang-mort-stephen-hawking-nous-laisse-seuls-devant-enigme-big-bang-70513/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Thu, 15 Mar 2018 15:35:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sciences/actualites/big-bang-mort-stephen-hawking-nous-laisse-seuls-devant-enigme-big-bang-70513/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/6/e/f/6efc7a633c_117670_big-bang-fotolia-santapa-design.jpg" length="229681" type="image/jpg" />
+<category><![CDATA[Big-Bang]]></category>
+<category><![CDATA[trou noir]]></category>
+<category><![CDATA[cosmologie]]></category>
+<category><![CDATA[singularité]]></category>
+<category><![CDATA[rayonnement Hawking]]></category>
+<category><![CDATA[paradoxe de l'information]]></category>
+<category><![CDATA[inflation]]></category>
+<category><![CDATA[entropie]]></category>
+<category><![CDATA[supergravité]]></category>
+<category><![CDATA[planck]]></category>
+<category><![CDATA[temps imaginaire]]></category>
+<category><![CDATA[intégrale de Feynman]]></category>
+<category><![CDATA[trou de ver]]></category>
+<category><![CDATA[constante cosmologique]]></category>
+<category><![CDATA[principe anthropique]]></category>
+<category><![CDATA[einstein]]></category>
+<category><![CDATA[relativité générale]]></category>
+<category><![CDATA[rayonnement fossile]]></category>
+<category><![CDATA[théorie de Tout]]></category>
+<category><![CDATA[théorie des cordes]]></category>
+<category><![CDATA[Wheeler]]></category>
+<category><![CDATA[Bekenstein]]></category>
+<category><![CDATA[Penrose]]></category>
+</item>
+<item>
+<title><![CDATA[Parker Solar Probe : la Nasa vous propose de frôler le Soleil]]></title>
+<description><![CDATA[La mission Parker Solar Probe permettra à une sonde de la Nasa de pénétrer dans la couronne solaire à environ 6 millions de kilomètres de sa photosphère au cours des années 2020. Destinée à percer les secrets du Soleil pour prédire ses colères, elle emportera le nom des internautes qui l'auront...]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sciences/actualites/astronomie-parker-solar-probe-nasa-vous-propose-froler-soleil-67547/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Thu, 15 Mar 2018 14:18:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sciences/actualites/astronomie-parker-solar-probe-nasa-vous-propose-froler-soleil-67547/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/c/5/3/c5304d4903_99074_rotation-soleil.jpg" length="119669" type="image/jpg" />
+<category><![CDATA[Astronomie]]></category>
+<category><![CDATA[solar probe plus]]></category>
+<category><![CDATA[Parker Solar Probe]]></category>
+<category><![CDATA[atmosphère solaire]]></category>
+<category><![CDATA[couronne solaire]]></category>
+<category><![CDATA[étude du Soleil]]></category>
+<category><![CDATA[sonde spatiale vers le Soleil]]></category>
+<category><![CDATA[sonde la plus rapide]]></category>
+<category><![CDATA[Eugene Parker]]></category>
+<category><![CDATA[éruption solaire]]></category>
+<category><![CDATA[prédiction des éruptions solaires]]></category>
+<category><![CDATA[météorologie solaire]]></category>
+</item>
+<item>
+<title><![CDATA[Le Giec a 30 ans : on fait le bilan]]></title>
+<description><![CDATA[En 1988, l’Organisation météorologique mondiale et le Programme des Nations unies pour l’environnement créaient le Groupe d’experts intergouvernemental sur l’évolution du climat, le Giec. Trente ans plus tard, cette organisation intergouvernementale fait référence dans le domaine du changement...]]></description>
+<link><![CDATA[https://www.futura-sciences.com/planete/actualites/changement-climatique-giec-30-ans-on-fait-bilan-70500/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Thu, 15 Mar 2018 11:15:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/planete/actualites/changement-climatique-giec-30-ans-on-fait-bilan-70500/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/a/f/d/afda0f6fd0_121720_larsenc-aout17-esa-bas.jpg" length="80939" type="image/jpg" />
+<category><![CDATA[changement climatique]]></category>
+<category><![CDATA[GIEC]]></category>
+<category><![CDATA[Observation de la Terre]]></category>
+<category><![CDATA[Réchauffement climatique]]></category>
+<category><![CDATA[Gulf Stream]]></category>
+</item>
+<item>
+<title><![CDATA[Inédit : les étranges flammes bleues du volcan Kawah Ijen, en Indonésie]]></title>
+<description><![CDATA[Chaque mois, Olivier Grunewald, photographe passionné par la nature depuis trente ans et plusieurs fois primé, nous invite à un voyage merveilleux. Aujourd'hui : un fascinant reportage en Indonésie, sur l'île de Java, où des mineurs, venus chercher le soufre sur le volcan Kawah Ijen, voient des...]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sciences/actualites/photographe-inedit-etranges-flammes-bleues-volcan-kawah-ijen-indonesie-70246/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Thu, 15 Mar 2018 10:42:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sciences/actualites/photographe-inedit-etranges-flammes-bleues-volcan-kawah-ijen-indonesie-70246/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/9/f/e/9fe91c5bf9_120446_grunewald07-canonique.jpg" length="199248" type="image/jpg" />
+<category><![CDATA[photographe]]></category>
+<category><![CDATA[Terre]]></category>
+<category><![CDATA[Volcan]]></category>
+<category><![CDATA[Kawah Ijen]]></category>
+<category><![CDATA[Olivier Grunewald]]></category>
+<category><![CDATA[Bernadette Gilbertas]]></category>
+<category><![CDATA[flammes bleues d'un volcan]]></category>
+<category><![CDATA[soufre]]></category>
+<category><![CDATA[Volcanologie]]></category>
+<category><![CDATA[À la Une]]></category>
+</item>
+<item>
+<title><![CDATA[L’atmosphère des superterres et des mini-Neptune recréée pour la première fois]]></title>
+<description><![CDATA[Encore un pas en avant dans la recherche d’autres mondes habitables. Des chercheurs ont recréé en laboratoire l’atmosphère des exoplanètes les plus communes de notre galaxie, les superterres et les mini-Neptune. C’est une première, qui permettra peut-être aux astronomes de percer les secrets que...]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sciences/actualites/astronomie-atmosphere-superterres-mini-neptune-recreee-premiere-fois-70482/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Thu, 15 Mar 2018 09:27:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sciences/actualites/astronomie-atmosphere-superterres-mini-neptune-recreee-premiere-fois-70482/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/e/4/1/e415b67c45_121637_atmosphere-superterres-mini-neptune-recree-premiere-fois-brume.jpg" length="29450" type="image/jpg" />
+<category><![CDATA[Astronomie]]></category>
+<category><![CDATA[exoplanète]]></category>
+<category><![CDATA[atmosphère]]></category>
+<category><![CDATA[superTerre]]></category>
+<category><![CDATA[atmosphère d'une superterre]]></category>
+<category><![CDATA[mini-Neptune]]></category>
+<category><![CDATA[brumes]]></category>
+<category><![CDATA[brume]]></category>
+<category><![CDATA[atmosphère d'une exoplanète]]></category>
+<category><![CDATA[pluton]]></category>
+<category><![CDATA[titan]]></category>
+<category><![CDATA[composition atmosphérique]]></category>
+<category><![CDATA[composition chimique]]></category>
+<category><![CDATA[métallicité]]></category>
+<category><![CDATA[photochimique]]></category>
+<category><![CDATA[brumes photochimiques]]></category>
+</item>
+<item>
+<title><![CDATA[Cerveau : la conscience localisée par des scientifiques de Harvard]]></title>
+<description><![CDATA[À l'occasion de la Semaine du cerveau, revenons sur quelques découvertes récentes dont plusieurs ont fortement modifié notre vision du fonctionnement cérébral. En novembre 2016, nous relations une étude sur la localisation des régions du cerveau qui seraient le siège de la conscience. Il y en a...]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sante/actualites/cerveau-cerveau-conscience-localisee-scientifiques-harvard-65121/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Thu, 15 Mar 2018 09:00:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sante/actualites/cerveau-cerveau-conscience-localisee-scientifiques-harvard-65121/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/e/e/f/eefddfee8e_98358_cerveau-conscience.jpg" length="505166" type="image/jpg" />
+<category><![CDATA[cerveau]]></category>
+<category><![CDATA[conscience]]></category>
+<category><![CDATA[consciousness]]></category>
+<category><![CDATA[awareness]]></category>
+<category><![CDATA[tronc cérébral]]></category>
+<category><![CDATA[réseau]]></category>
+<category><![CDATA[cortex]]></category>
+<category><![CDATA[cortex cingulaire]]></category>
+<category><![CDATA[À la Une]]></category>
+</item>
+<item>
+<title><![CDATA[Processeurs AMD : des failles de sécurité majeures découvertes]]></title>
+<description><![CDATA[CTS Labs, un spécialiste de la sécurité informatique, affirme avoir découvert 13 failles de sécurité dans les processeurs AMD. Celles-ci touchent les derniers modèles de la marque qui équipent des ordinateurs professionnels et grand public.]]></description>
+<link><![CDATA[https://www.futura-sciences.com/tech/actualites/securite-processeurs-amd-failles-securite-majeures-decouvertes-70506/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Thu, 15 Mar 2018 08:03:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/tech/actualites/securite-processeurs-amd-failles-securite-majeures-decouvertes-70506/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/e/5/3/e531f0b2bd_121732_amd-cts-labs.jpg" length="112162" type="image/jpg" />
+<category><![CDATA[Sécurité]]></category>
+<category><![CDATA[processeur]]></category>
+<category><![CDATA[faille]]></category>
+<category><![CDATA[amd]]></category>
+<category><![CDATA[CTS Labs]]></category>
+<category><![CDATA[processeur AMD]]></category>
+<category><![CDATA[faille sécurité processeur AMD]]></category>
+<category><![CDATA[EPYC]]></category>
+<category><![CDATA[Ryzen]]></category>
+<category><![CDATA[Ryzen Pro]]></category>
+<category><![CDATA[Ryzen Mobile]]></category>
+<category><![CDATA[faille spectre]]></category>
+<category><![CDATA[faille meltdown]]></category>
+<category><![CDATA[intel]]></category>
+<category><![CDATA[ASMedia]]></category>
+<category><![CDATA[enSilo]]></category>
+</item>
+<item>
+<title><![CDATA[Décès de Stephen Hawking : qu'est-ce que la maladie de Charcot ?]]></title>
+<description><![CDATA[Le scientifique Stephen Hawking, qui nous a quittés aujourd'hui, a survécu pendant un demi-siècle à une maladie au pronostic très sombre. La sclérose latérale amyotrophique, ou maladie de Charcot, est une pathologie neurodégénérative conduisant à l’affaiblissement et la paralysie des muscles.]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sante/actualites/medecine-deces-stephen-hawking-quest-ce-maladie-charcot-70517/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Wed, 14 Mar 2018 16:32:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sante/actualites/medecine-deces-stephen-hawking-quest-ce-maladie-charcot-70517/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/d/4/8/d4840e2125_121755_fauteuil-handicap.jpg" length="143973" type="image/jpg" />
+<category><![CDATA[médecine]]></category>
+<category><![CDATA[Hawking]]></category>
+<category><![CDATA[maladie]]></category>
+<category><![CDATA[Stephen Hawking]]></category>
+<category><![CDATA[maladie de charcot]]></category>
+<category><![CDATA[maladie neurodégénérative]]></category>
+<category><![CDATA[Sclérose Latérale Amyotrophique]]></category>
+<category><![CDATA[handicap]]></category>
+<category><![CDATA[motoneurone]]></category>
+<category><![CDATA[moelle épinière]]></category>
+<category><![CDATA[muscle]]></category>
+<category><![CDATA[maladie de Lou Gehrig]]></category>
+<category><![CDATA[Jérôme Golmard]]></category>
+</item>
+<item>
+<title><![CDATA[Stephen Hawking : top 5 de ses découvertes]]></title>
+<description><![CDATA[Coup d'œil sur les cinq principaux apports scientifiques de Stephen Hawking, qui vient de nous quitter. Ce singulier personnage était un spécialiste... des singularités.]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sciences/actualites/physique-stephen-hawking-top-5-decouvertes-70508/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Wed, 14 Mar 2018 15:45:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sciences/actualites/physique-stephen-hawking-top-5-decouvertes-70508/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/a/9/4/a9450d1f25_89077_sbh-ngc1600.jpg" length="511289" type="image/jpg" />
+<category><![CDATA[physique]]></category>
+<category><![CDATA[Hawking]]></category>
+<category><![CDATA[cosmologie]]></category>
+<category><![CDATA[rayonnement de Hawking]]></category>
+<category><![CDATA[temps imaginaire]]></category>
+<category><![CDATA[modèle de Hartle-Hawking]]></category>
+<category><![CDATA[big bang]]></category>
+<category><![CDATA[singularité]]></category>
+<category><![CDATA[À la Une]]></category>
+</item>
+<item>
+<title><![CDATA[Cora, le taxi volant de Larry Page, prend son envol]]></title>
+<description><![CDATA[Le taxi volant Cora, développé par une société financée par Larry Page, le cofondateur de Google, vient d'être officiellement présenté. Il s'agit d'un aéronef à décollage et atterrissage verticaux propulsé par 12 rotors électriques. Il est actuellement testé en Nouvelle-Zélande.]]></description>
+<link><![CDATA[https://www.futura-sciences.com/tech/actualites/technologie-cora-taxi-volant-larry-page-prend-son-envol-70515/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Wed, 14 Mar 2018 15:02:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/tech/actualites/technologie-cora-taxi-volant-larry-page-prend-son-envol-70515/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/8/1/d/81d45f7c97_121747_cora-kitty-hawk.jpg" length="72896" type="image/jpg" />
+<category><![CDATA[technologie]]></category>
+<category><![CDATA[voiture]]></category>
+<category><![CDATA[taxi volant]]></category>
+<category><![CDATA[Larry Page]]></category>
+<category><![CDATA[kitty hawk larry page]]></category>
+<category><![CDATA[aéronef à décollage et atterrissage verticaux]]></category>
+<category><![CDATA[Voiture volante]]></category>
+<category><![CDATA[Cora]]></category>
+<category><![CDATA[Cora larry page]]></category>
+<category><![CDATA[Zephyr Airworks]]></category>
+</item>
+<item>
+<title><![CDATA[Fusion nucléaire : le CEA et le Japon préparent l'après-Iter]]></title>
+<description><![CDATA[La construction d'Iter n'est pas encore terminée mais l'urgence de&nbsp;remplacer les énergies fossiles&nbsp;par des sources d'énergie concentrées est telle que son successeur, Demo, est déjà à l'étude. Le CEA et le Japon travaillent ensemble sur ce vrai prototype de réacteur industriel pour la...]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sciences/actualites/physique-fusion-nucleaire-cea-japon-preparent-apres-iter-10020/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Wed, 14 Mar 2018 14:00:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sciences/actualites/physique-fusion-nucleaire-cea-japon-preparent-apres-iter-10020/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/3/0/a/30a73cf233_119632_tokamak-jt-60sa-cea.jpg" length="328691" type="image/jpg" />
+<category><![CDATA[physique]]></category>
+<category><![CDATA[Iter]]></category>
+<category><![CDATA[fusion nucléaire]]></category>
+<category><![CDATA[Japon]]></category>
+<category><![CDATA[irradiation]]></category>
+<category><![CDATA[matériau]]></category>
+<category><![CDATA[tokamak]]></category>
+<category><![CDATA[réacteur Demo]]></category>
+<category><![CDATA[aimant supraconducteur]]></category>
+</item>
+<item>
+<title><![CDATA[Ce panneau solaire fonctionne aussi quand il pleut]]></title>
+<description><![CDATA[Pour produire de l’énergie propre, le photovoltaïque, c’est bien. Mais uniquement… lorsque le soleil brille. À moins que l’idée de chercheurs chinois de développer des panneaux solaires qui exploitent aussi l’énergie des gouttes de pluie ne devienne réalité.]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sciences/actualites/physique-ce-panneau-solaire-fonctionne-aussi-il-pleut-70468/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Wed, 14 Mar 2018 13:39:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sciences/actualites/physique-ce-panneau-solaire-fonctionne-aussi-il-pleut-70468/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/c/e/b/cebb78b9d6_121587_panneau-solaire-pluie.jpg" length="122518" type="image/jpg" />
+<category><![CDATA[physique]]></category>
+<category><![CDATA[énergie renouvelable]]></category>
+<category><![CDATA[panneau solaire]]></category>
+<category><![CDATA[panneau photovoltaïque]]></category>
+<category><![CDATA[nanogénérateur triboélectrique]]></category>
+<category><![CDATA[TENG]]></category>
+<category><![CDATA[université de Soochow]]></category>
+<category><![CDATA[pluie]]></category>
+<category><![CDATA[gouttes de pluie]]></category>
+<category><![CDATA[friction]]></category>
+</item>
+<item>
+<title><![CDATA[Naissance de planètes : Hubble nous offre une image impressionnante]]></title>
+<description><![CDATA[Parmi les systèmes solaires en formation connus, le cas de l’étoile HR 4796A est un des plus étudiés. Grâce à la vue perçante du télescope spatial Hubble, des astronomes ont dévoilé un immense champ de poussière atour de l’étoile, en plus d’un anneau de débris déjà identifié. Et, surprise, il...]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sciences/actualites/exoplanete-naissance-planetes-hubble-nous-offre-image-impressionnante-70435/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Wed, 14 Mar 2018 11:22:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sciences/actualites/exoplanete-naissance-planetes-hubble-nous-offre-image-impressionnante-70435/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/4/9/7/4970f807ea_121440_disque-debris-planete-geante.jpg" length="107694" type="image/jpg" />
+<category><![CDATA[exoplanète]]></category>
+<category><![CDATA[exoplanètes]]></category>
+<category><![CDATA[étoile]]></category>
+<category><![CDATA[système planétaire]]></category>
+<category><![CDATA[naine rouge]]></category>
+<category><![CDATA[disque de débris]]></category>
+<category><![CDATA[disque de gaz et de poussière]]></category>
+<category><![CDATA[disque protoplanétaire]]></category>
+<category><![CDATA[disque proto-planétaire]]></category>
+<category><![CDATA[étoile HR 4796A]]></category>
+</item>
+<item>
+<title><![CDATA[Hommage à Stephen Hawking : une brève histoire d'un scientifique hors norme]]></title>
+<description><![CDATA[Le grand physicien Stephen Hawking vient de s'éteindre cette nuit. Devenu une légende de la physique, il fut aussi un talentueux vulgarisateur. Retour sur la vie hors du commun de ce savant attachant.]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sciences/actualites/physique-hommage-stephen-hawking-breve-histoire-scientifique-hors-norme-70502/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Wed, 14 Mar 2018 11:13:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sciences/actualites/physique-hommage-stephen-hawking-breve-histoire-scientifique-hors-norme-70502/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/0/f/e/0fee3d2586_96342_hawking-damtp-university-of-cambridge.jpg" length="100617" type="image/jpg" />
+<category><![CDATA[physique]]></category>
+<category><![CDATA[Stephen Hawking]]></category>
+<category><![CDATA[Une brève histoire du temps]]></category>
+<category><![CDATA[mort de Hawking]]></category>
+<category><![CDATA[décès de Hawking]]></category>
+<category><![CDATA[relativité générale]]></category>
+<category><![CDATA[chaire lucasienne]]></category>
+<category><![CDATA[À la Une]]></category>
+<category><![CDATA[Hawking]]></category>
+</item>
+<item>
+<title><![CDATA[SpaceX : la première fusée vers Mars fera ses premiers vols en 2019, affirme Elon Musk]]></title>
+<description><![CDATA[Invité au festival de cinéma South by Southwest, Elon Musk qui s’est exprimé sur ses diverses activités, a confirmé que la construction de la fusée qui emmènera les premiers Hommes sur Mars a débuté. Les premiers vols courts sont prévus pour l’année prochaine. Pour le milliardaire, le temps...]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sciences/actualites/astronautique-spacex-premiere-fusee-vers-mars-fera-premiers-vols-2019-affirme-elon-musk-29740/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Wed, 14 Mar 2018 09:54:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sciences/actualites/astronautique-spacex-premiere-fusee-vers-mars-fera-premiers-vols-2019-affirme-elon-musk-29740/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/b/c/f/bcf60b99d4_121619_mars-bfrs.jpg" length="110208" type="image/jpg" />
+<category><![CDATA[Astronautique]]></category>
+<category><![CDATA[SpaceX]]></category>
+<category><![CDATA[Elon Musk]]></category>
+<category><![CDATA[mars]]></category>
+<category><![CDATA[Falcon-9]]></category>
+<category><![CDATA[Falcon Heavy]]></category>
+<category><![CDATA[dragon]]></category>
+<category><![CDATA[planète rouge]]></category>
+<category><![CDATA[exploration]]></category>
+<category><![CDATA[Nasa]]></category>
+<category><![CDATA[COTS]]></category>
+<category><![CDATA[CCDev]]></category>
+<category><![CDATA[véhicule spatial habité]]></category>
+</item>
+<item>
+<title><![CDATA[L’empathie serait aussi une affaire de génétique]]></title>
+<description><![CDATA[Une étude sur 46.000 personnes qui ont fait un test génétique de l'entreprise 23andMe a trouvé que l’empathie avait une composante génétique, même si celle-ci reste minoritaire. Cette recherche ouvre aussi des perspectives pour mieux comprendre des troubles psychiques comme l’autisme.]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sante/actualites/genetique-empathie-serait-aussi-affaire-genetique-70480/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Wed, 14 Mar 2018 09:23:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sante/actualites/genetique-empathie-serait-aussi-affaire-genetique-70480/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/1/4/d/14d085d64a_121633_empathie-homme.jpg" length="149120" type="image/jpg" />
+<category><![CDATA[génétique]]></category>
+<category><![CDATA[empathie]]></category>
+<category><![CDATA[gêne]]></category>
+<category><![CDATA[autisme]]></category>
+<category><![CDATA[interactions sociales]]></category>
+<category><![CDATA[société]]></category>
+<category><![CDATA[relations sociales]]></category>
+<category><![CDATA[femme]]></category>
+<category><![CDATA[trouble psychique]]></category>
+<category><![CDATA[expérience]]></category>
+</item>
+<item>
+<title><![CDATA[Le cerveau continue de se développer à l'âge adulte]]></title>
+<description><![CDATA[À l'occasion de la Semaine du cerveau, revenons sur quelques découvertes récentes dont plusieurs ont fortement modifié notre vision du fonctionnement cérébral. En janvier 2017, une nouvelle fois, une étude montrait que la production de neurones ne s'arrête pas avec l'enfance. Des chercheurs de...]]></description>
+<link><![CDATA[https://www.futura-sciences.com/sante/actualites/cerveau-cerveau-continue-developper-age-adulte-65843/#xtor=RSS-8]]></link>
+<pubDate><![CDATA[Wed, 14 Mar 2018 09:00:00 +0100]]></pubDate>
+<author><![CDATA[webmaster@futura-sciences.com (Futura-Sciences)]]></author>
+<guid isPermaLink="true"><![CDATA[https://www.futura-sciences.com/sante/actualites/cerveau-cerveau-continue-developper-age-adulte-65843/#xtor=RSS-8]]></guid>
+<enclosure url="https://fr.cdn.v5.futura-sciences.com/buildsv6/images/wide1920/8/2/a/82aa5bd3a8_101038_visages-physionomiste-01.jpg" length="180892" type="image/jpg" />
+<category><![CDATA[cerveau]]></category>
+<category><![CDATA[reconnaissance des visages]]></category>
+<category><![CDATA[aire cérébrale]]></category>
+<category><![CDATA[scanner]]></category>
+<category><![CDATA[âge adulte]]></category>
+<category><![CDATA[gyrus fusiforme]]></category>
+<category><![CDATA[cortex]]></category>
+<category><![CDATA[vieillissement]]></category>
+</item>
+</channel>
+</rss>
